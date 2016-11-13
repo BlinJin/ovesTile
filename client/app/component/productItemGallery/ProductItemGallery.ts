@@ -5,4 +5,4 @@ import {Component} from "@angular/core"
 
 })
 
-export class ProductItemGallery(){}
+export class ProductItemGallery{}

@@ -9,6 +9,8 @@
     "removeComments": false,
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true,
+    "inlineSourceMap": true,
+    "inlineSources": false,
     "typeRoots": [
       "../../node_modules/@types/"
     ]
@@ -19,3 +21,4 @@
     "**/*-aot.ts"
   ]
 }
+
